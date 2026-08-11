@@ -28,3 +28,6 @@ Um usuário faz um postagem e essa postagem tem comentários
  - Texto
  - Pessoas
  - Reação
+
+
+![](Comentario_postagem.png)
